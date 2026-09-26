@@ -2,7 +2,7 @@
 
 An interactive executive analytics dashboard built with Python and Streamlit to monitor sales revenue, profit margins, product category performance, and regional market distribution in real time.
 
-🚀 **[Live Demo](https://your-ecommerce-dashboard-demo.streamlit.app/)**
+🚀 **https://hassan-farahat-ecommerce-kpi-dashboard-app-cwjdul.streamlit.app/**
 
 ---
 
